@@ -1,0 +1,90 @@
+newmtl W1200 ST9 Porcelain White
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/W1200 ST9 Porcelain White.jpg
+
+newmtl H1318 ST10 Natural Wild Oak
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/H1318 ST10 Natural Wild Oak.jpg
+
+newmtl W1000 ST19 Premium White
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/W1000 ST19 Premium White.jpg
+
+newmtl W1000 ST9 Premium White
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/W1000 ST9 Premium White.jpg
+
+newmtl glass
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Metal/glass.bmp
+
+newmtl U604 ST9 Reed Green
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/U604 ST9 Reed Green.jpg
+
+newmtl RX04_Chrome_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX04_Chrome_02.jpg
+
+newmtl RX24_Orange_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX24_Orange_02.jpg
+
+newmtl Staklo_00
+Ns 2
+Ka 0.88235 0.949 0.9137
+Kd 0.12157 0.5725 0.5255
+Ks 0 0 0
+Ni 1.000
+d 0.29412
+illum 4
+map_Kd C:/Corpus_cloud/ElmTex/Glass/Staklo_00.bmp
+
